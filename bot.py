@@ -65,4 +65,4 @@ async def sa(ctx): #"=sa" yaz çalıştır
         
 
 ##BOT TOKEN##
-bot.run ("nayır")
+bot.run ("process.env.BOT_TOKEN")
